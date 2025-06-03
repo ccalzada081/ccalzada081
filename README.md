@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Calzada Díaz
+# Hi, I'm Carlos Esteban Calzada Díaz
 
 I'm a Computer Systems Engineering student at ITESO (expected graduation: 2025), with a strong interest in data analytics, visualisation, and cloud-based solutions.
 
